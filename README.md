@@ -90,7 +90,7 @@
     <section id="skills">
         <div class="content">
             <h2>Skills</h2>
-            <p>Details about your skills will go here.</p>
+            <p>Editor.</p>
         </div>
     </section>
     <section id="experience">
